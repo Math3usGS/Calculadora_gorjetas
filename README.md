@@ -11,4 +11,8 @@ Here are the technologies used in the project.
 
 ## How to use
 ### 1 - In the main screen you must select the amount of the bill to pay, what was the quality of the service and how many people will share the bill.
+![Main screen](https://github.com/Math3usGS/Calculadora_gorjetas/blob/main/assets/main_screen.PNG)
+
+### 2 - After selecting the information, the customer must click on the calculate button. Then, the tip value to be given by each one is shown.
+
 
