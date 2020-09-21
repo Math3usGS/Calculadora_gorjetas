@@ -14,5 +14,14 @@ Here are the technologies used in the project.
 ![Main screen](https://github.com/Math3usGS/Calculadora_gorjetas/blob/main/assets/main_screen.PNG)
 
 ### 2 - After selecting the information, the customer must click on the calculate button. Then, the tip value to be given by each one is shown.
+![Tip for many people](https://github.com/Math3usGS/Calculadora_gorjetas/blob/main/assets/working_screen.PNG)
+![Tip for one person](https://github.com/Math3usGS/Calculadora_gorjetas/blob/main/assets/working_screen_2.PNG)
+
+## Features
+  - Calculate the bill
+  - Shows the customer how much tip he should give based on the number of people who will share the bill and the quality of the service offered.
+
+## Links
+  - Repository: 
 
 
