@@ -22,6 +22,13 @@ Here are the technologies used in the project.
   - Shows the customer how much tip he should give based on the number of people who will share the bill and the quality of the service offered.
 
 ## Links
-  - Repository: 
+  - Repository: https://github.com/Math3usGS/Calculadora_gorjetas
+
+## Authors
+
+* **Matheus Gonçalves de Souza**: @Math3usGS (https://github.com/Math3usGS)
+
+Please follow github and join us!
+Thanks to visiting me and take care!
 
 
